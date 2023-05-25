@@ -5,10 +5,6 @@ No need to go into too much technical details if you expect some people would ju
 and don't care about the internals (so focus on what the code really *does*), not how.
 The *_How it works_* section below would contain more technical details for curious people.
 
-If applicable, you can also show an example of the final output.
-
-![](media/examples/emojis.png)
-
 ---
 
 
